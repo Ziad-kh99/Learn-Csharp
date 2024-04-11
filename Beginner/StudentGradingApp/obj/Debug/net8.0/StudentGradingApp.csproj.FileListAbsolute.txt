@@ -1,0 +1,14 @@
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\bin\Debug\net8.0\StudentGradingApp.exe
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\bin\Debug\net8.0\StudentGradingApp.deps.json
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\bin\Debug\net8.0\StudentGradingApp.runtimeconfig.json
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\bin\Debug\net8.0\StudentGradingApp.dll
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\bin\Debug\net8.0\StudentGradingApp.pdb
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.AssemblyInfoInputs.cache
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.AssemblyInfo.cs
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.csproj.CoreCompileInputs.cache
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.dll
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\refint\StudentGradingApp.dll
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.pdb
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\StudentGradingApp.genruntimeconfig.cache
+Z:\.NET\C#ProjectsAndExercises\Beginner\StudentGradingApp\obj\Debug\net8.0\ref\StudentGradingApp.dll
