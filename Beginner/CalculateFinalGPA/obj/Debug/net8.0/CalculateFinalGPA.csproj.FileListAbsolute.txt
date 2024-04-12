@@ -1,0 +1,15 @@
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.exe
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.deps.json
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.runtimeconfig.json
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.dll
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.pdb
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.AssemblyInfoInputs.cache
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.AssemblyInfo.cs
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.csproj.CoreCompileInputs.cache
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.sourcelink.json
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.dll
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\refint\CalculateFinalGPA.dll
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.pdb
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.genruntimeconfig.cache
+Z:\.NET\C#ProjectsAndExercises\Beginner\CalculateFinalGPA\obj\Debug\net8.0\ref\CalculateFinalGPA.dll
