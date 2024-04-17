@@ -1,0 +1,15 @@
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\bin\Debug\net8.0\ImproveRenewalRateOfSubscriptions.exe
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\bin\Debug\net8.0\ImproveRenewalRateOfSubscriptions.deps.json
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\bin\Debug\net8.0\ImproveRenewalRateOfSubscriptions.runtimeconfig.json
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\bin\Debug\net8.0\ImproveRenewalRateOfSubscriptions.dll
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\bin\Debug\net8.0\ImproveRenewalRateOfSubscriptions.pdb
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.AssemblyInfoInputs.cache
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.AssemblyInfo.cs
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.csproj.CoreCompileInputs.cache
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.sourcelink.json
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.dll
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\refint\ImproveRenewalRateOfSubscriptions.dll
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.pdb
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ImproveRenewalRateOfSubscriptions.genruntimeconfig.cache
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Beginner\ImproveRenewalRateOfSubscriptions\obj\Debug\net8.0\ref\ImproveRenewalRateOfSubscriptions.dll
