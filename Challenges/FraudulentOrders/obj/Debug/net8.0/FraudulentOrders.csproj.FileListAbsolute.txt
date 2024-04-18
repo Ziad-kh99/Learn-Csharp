@@ -1,0 +1,15 @@
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\bin\Debug\net8.0\FraudulentOrders.exe
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\bin\Debug\net8.0\FraudulentOrders.deps.json
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\bin\Debug\net8.0\FraudulentOrders.runtimeconfig.json
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\bin\Debug\net8.0\FraudulentOrders.dll
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\bin\Debug\net8.0\FraudulentOrders.pdb
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.AssemblyInfoInputs.cache
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.AssemblyInfo.cs
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.csproj.CoreCompileInputs.cache
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.sourcelink.json
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.dll
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\refint\FraudulentOrders.dll
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.pdb
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\FraudulentOrders.genruntimeconfig.cache
+C:\Users\zkhaled\Coding\C-ProjectsAndExercises\Challenges\FraudulentOrders\obj\Debug\net8.0\ref\FraudulentOrders.dll
