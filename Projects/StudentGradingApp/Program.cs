@@ -1,4 +1,7 @@
-﻿int currentAssignments = 5;
+﻿
+#region Version 1:
+/*
+int currentAssignments = 5;
 
 int sophia1 = 93;
 int sophia2 = 87;
@@ -64,5 +67,11 @@ Console.WriteLine($"Sophia:\t\t{sophiaScore}\tA");
 Console.WriteLine($"Nicolas:\t{nicolasScore}\tB");
 Console.WriteLine($"Zahirah:\t{ZahiraScore}\tB");
 Console.WriteLine($"Jeong:\t\t{jeongScore}\tA");
+*/
+#endregion
 
+
+#region Version 2:
+
+#endregion
 
