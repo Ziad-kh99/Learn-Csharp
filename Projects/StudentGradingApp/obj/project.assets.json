@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zkhaled\\Coding\\C-ProjectsAndExercises\\Challenges\\StudentGradingApp\\StudentGradingApp.csproj",
+      "projectUniqueName": "C:\\Users\\zkhaled\\Coding\\C-ProjectsAndExercises\\Projects\\StudentGradingApp\\StudentGradingApp.csproj",
       "projectName": "StudentGradingApp",
-      "projectPath": "C:\\Users\\zkhaled\\Coding\\C-ProjectsAndExercises\\Challenges\\StudentGradingApp\\StudentGradingApp.csproj",
+      "projectPath": "C:\\Users\\zkhaled\\Coding\\C-ProjectsAndExercises\\Projects\\StudentGradingApp\\StudentGradingApp.csproj",
       "packagesPath": "C:\\Users\\zkhaled\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zkhaled\\Coding\\C-ProjectsAndExercises\\Challenges\\StudentGradingApp\\obj\\",
+      "outputPath": "C:\\Users\\zkhaled\\Coding\\C-ProjectsAndExercises\\Projects\\StudentGradingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zkhaled\\AppData\\Roaming\\NuGet\\NuGet.Config"
