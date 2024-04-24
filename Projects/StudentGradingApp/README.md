@@ -49,5 +49,16 @@
 - Use an if-elseif-else construct within the outer loop to evaluate the average exam score and assign a letter grade automatically.
 
 
+### Version 3:
+#### Requierments:
+- Update the iteration and selection code to calculate separate final scores for exams, extra credit assignments, 
+  and the overall grade.
+- Ucpdate the code that writes the grading report to the console.
+
+#### Objectives:
+- Revise a C# console application that uses nested foreach loops to access array data based on an updated 
+  feature specification.
+- Update the variables and if statements in a C# console application to create the code branches and 
+  calculations required to satisfy an updated feature specification.
 
 
