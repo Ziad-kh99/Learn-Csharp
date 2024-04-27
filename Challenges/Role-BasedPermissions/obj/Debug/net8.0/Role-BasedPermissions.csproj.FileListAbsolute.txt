@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\bin\Debug\net8.0\Role-BasedPermissions.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\bin\Debug\net8.0\Role-BasedPermissions.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\bin\Debug\net8.0\Role-BasedPermissions.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\bin\Debug\net8.0\Role-BasedPermissions.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\bin\Debug\net8.0\Role-BasedPermissions.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\refint\Role-BasedPermissions.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\Role-BasedPermissions.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Role-BasedPermissions\obj\Debug\net8.0\ref\Role-BasedPermissions.dll
