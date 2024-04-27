@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\bin\Debug\net8.0\CoinFlip.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\bin\Debug\net8.0\CoinFlip.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\bin\Debug\net8.0\CoinFlip.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\bin\Debug\net8.0\CoinFlip.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\bin\Debug\net8.0\CoinFlip.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\refint\CoinFlip.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\CoinFlip.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\CoinFlip\obj\Debug\net8.0\ref\CoinFlip.dll
