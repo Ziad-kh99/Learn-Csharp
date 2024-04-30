@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\bin\Debug\net8.0\UpdateProblematicCode.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\bin\Debug\net8.0\UpdateProblematicCode.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\bin\Debug\net8.0\UpdateProblematicCode.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\bin\Debug\net8.0\UpdateProblematicCode.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\bin\Debug\net8.0\UpdateProblematicCode.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\refint\UpdateProblematicCode.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\UpdateProblematicCode.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\UpdateProblematicCode\obj\Debug\net8.0\ref\UpdateProblematicCode.dll
