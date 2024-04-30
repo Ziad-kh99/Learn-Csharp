@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\bin\Debug\net8.0\Rewrite if-else using switch statement.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\bin\Debug\net8.0\Rewrite if-else using switch statement.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\bin\Debug\net8.0\Rewrite if-else using switch statement.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\bin\Debug\net8.0\Rewrite if-else using switch statement.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\bin\Debug\net8.0\Rewrite if-else using switch statement.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\refint\Rewrite if-else using switch statement.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\Rewrite if-else using switch statement.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\Rewrite if-else using switch statement\obj\Debug\net8.0\ref\Rewrite if-else using switch statement.dll

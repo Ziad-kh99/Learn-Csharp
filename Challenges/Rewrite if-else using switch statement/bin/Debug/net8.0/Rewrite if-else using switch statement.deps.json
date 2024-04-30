@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rewrite if-else using switch statement/1.0.0": {
+        "runtime": {
+          "Rewrite if-else using switch statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rewrite if-else using switch statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

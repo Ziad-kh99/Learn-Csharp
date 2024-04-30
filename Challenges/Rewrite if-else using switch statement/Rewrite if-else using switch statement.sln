@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rewrite if-else using switch statement", "Rewrite if-else using switch statement.csproj", "{BCC7B63B-FAE6-46A2-BC95-B0CB3BF171BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC7B63B-FAE6-46A2-BC95-B0CB3BF171BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC7B63B-FAE6-46A2-BC95-B0CB3BF171BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC7B63B-FAE6-46A2-BC95-B0CB3BF171BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC7B63B-FAE6-46A2-BC95-B0CB3BF171BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9F7F62-AE25-4BD4-812D-341D4CEDBD29}
+	EndGlobalSection
+EndGlobal
