@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\bin\Debug\net8.0\RolePlayingGameBattle.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\bin\Debug\net8.0\RolePlayingGameBattle.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\bin\Debug\net8.0\RolePlayingGameBattle.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\bin\Debug\net8.0\RolePlayingGameBattle.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\bin\Debug\net8.0\RolePlayingGameBattle.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\refint\RolePlayingGameBattle.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\RolePlayingGameBattle.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\RolePlayingGameBattle\obj\Debug\net8.0\ref\RolePlayingGameBattle.dll
