@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\bin\Debug\net8.0\do-whileANDwhileStatements.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\bin\Debug\net8.0\do-whileANDwhileStatements.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\bin\Debug\net8.0\do-whileANDwhileStatements.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\bin\Debug\net8.0\do-whileANDwhileStatements.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\bin\Debug\net8.0\do-whileANDwhileStatements.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\refint\do-whileANDwhileStatements.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\do-whileANDwhileStatements.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\do-whileANDwhileStatements\obj\Debug\net8.0\ref\do-whileANDwhileStatements.dll
