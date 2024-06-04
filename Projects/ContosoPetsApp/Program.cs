@@ -122,6 +122,7 @@ do
             string anotherPet = "y";
             int petCount = 0;
 
+            //> Calculate pet count:
             for (int i = 0; i < maxPets; ++i)
             {
                 if (ourAnimals[i, 0] != "ID #: ")
@@ -137,34 +138,109 @@ do
 
             while (petCount < maxPets && anotherPet == "y")
             {
+
                 bool validEntry = false;
 
-                do {
+                do
+                {
                     Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
                     readResult = Console.ReadLine();
 
-                    if(readResult != null)
+                    if (readResult != null)
                     {
                         animalSpecies = readResult.ToLower();
                     }
 
-                    if(animalSpecies != "dog" && animalSpecies != "cat")
+                    if (animalSpecies != "dog" && animalSpecies != "cat")
                     {
                         validEntry = false;
                     }
-                    else 
+                    else
                     {
                         validEntry = true;
                     }
 
-                } while (validEntry);
+                } while (!validEntry);
 
                 //> Build the animal ID number:
-                animalID = animalSpecies == "cat" ? $"C{petCount}" : $"D{petCount}";
+                animalID = animalSpecies == "cat" ? $"C{petCount + 1}" : $"D{petCount + 1}";
 
-                do {
+                do
+                {
+                    int petAge;
+                    Console.WriteLine("Enter the pet's age or enter ? if unkonwn");
+                    readResult = Console.ReadLine();
 
+                    if (readResult != null)
+                    {
+                        animalAge = readResult;
+                        if (animalAge != "?")
+                        {
+                            validEntry = int.TryParse(animalAge, out petAge);
+                        }
+                        else
+                        {
+                            validEntry = true;
+                        }
+                    }
                 } while (!validEntry);
+
+
+                do
+                {
+                    Console.WriteLine("Enter a pysical description of the pet (size, color, gender, weight, housebroken)");
+                    readResult = Console.ReadLine();
+
+                    if (readResult != null)
+                    {
+                        animalPhysicalDescription = readResult.ToLower();
+
+                        if (animalPhysicalDescription == "")
+                        {
+                            animalPhysicalDescription = "physical description...";
+                        }
+                    }
+
+                } while (animalPhysicalDescription == "");
+
+                do
+                {
+                    Console.WriteLine("Enter a personal description of the pet (likes or dislikes, tricks, energy level)");
+                    readResult = Console.ReadLine();
+
+                    if (readResult != null)
+                    {
+                        animalPersonalityDescription = readResult.ToLower();
+
+                        if (animalPersonalityDescription == "")
+                        {
+                            animalPersonalityDescription = "personal description...";
+                        }
+                    }
+                } while (animalPersonalityDescription == "");
+
+                do
+                {
+                    Console.WriteLine("Enter a nickname for the pet.");
+                    readResult = Console.ReadLine();
+
+                    if (readResult != null)
+                    {
+                        animalNickname = readResult.ToLower();
+
+                        if (animalNickname == "")
+                        {
+                            animalNickname = "Nick-Name";
+                        }
+                    }
+                } while (animalNickname == "");
+
+                ourAnimals[petCount, 0] = $"ID #: {animalID}";
+                ourAnimals[petCount, 1] = $"Species: {animalSpecies}";
+                ourAnimals[petCount, 2] = $"Age: {animalAge}";
+                ourAnimals[petCount, 3] = $"Nickname: {animalNickname}";
+                ourAnimals[petCount, 4] = $"Physical description: {animalPhysicalDescription}";
+                ourAnimals[petCount, 5] = $"Personal description: {animalPersonalityDescription}";
 
                 petCount++;
 
