@@ -163,7 +163,7 @@ do
                 } while (!validEntry);
 
                 //> Build the animal ID number:
-                animalID = animalSpecies == "cat" ? $"C{petCount + 1}" : $"D{petCount + 1}";
+                animalID = animalSpecies == "cat" ? $"c{petCount + 1}" : $"d{petCount + 1}";
 
                 do
                 {
@@ -314,8 +314,34 @@ do
             readResult = Console.ReadLine();
             break;
         case "4":
-            //> 4. Ensure animal nicknames and personality descriptions are complete
-            Console.WriteLine("This app feature is comming soon. Please check beack to see progress.");
+            
+            for(int i = 0; i < ourAnimals.GetLength(0); ++i)
+            {
+                if(ourAnimals[i, 0] != "ID #: ")
+                {
+                    animalNickname = ourAnimals[i, 3].Split(": ")[1];
+                    animalPersonalityDescription = ourAnimals[i, 5].Split(": ")[1];
+
+                    while(animalNickname == "Unset value" || animalNickname == "")
+                    {
+                        Console.WriteLine($"Please enter a valid nickname for pet with ID: {ourAnimals[i, 0]}");
+                        animalNickname = Console.ReadLine();
+                    }
+
+                    ourAnimals[i, 3] = $"Nickname: {animalNickname}";
+
+                    while(animalPersonalityDescription == "Unset value" || animalPersonalityDescription == "")
+                    {
+                        Console.WriteLine($"Please enter a valid personal description for pet with ID: {ourAnimals[i, 0]}");
+                        animalPersonalityDescription = Console.ReadLine();
+                    }
+
+                    ourAnimals[i, 5] = $"Personality description: {animalPersonalityDescription}";
+                }
+            }
+
+            Console.WriteLine("Age and physical description fields are complete for all of our friends.");
+
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
