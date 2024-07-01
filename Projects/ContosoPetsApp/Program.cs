@@ -163,7 +163,7 @@ do
                 } while (!validEntry);
 
                 //> Build the animal ID number:
-                animalID = animalSpecies == "cat" ? $"C{petCount + 1}" : $"D{petCount + 1}";
+                animalID = animalSpecies == "cat" ? $"c{petCount + 1}" : $"d{petCount + 1}";
 
                 do
                 {
@@ -197,7 +197,7 @@ do
 
                         if (animalPhysicalDescription == "")
                         {
-                            animalPhysicalDescription = "physical description...";
+                            animalPhysicalDescription = "Unset value";
                         }
                     }
 
@@ -214,7 +214,7 @@ do
 
                         if (animalPersonalityDescription == "")
                         {
-                            animalPersonalityDescription = "personal description...";
+                            animalPersonalityDescription = "Unset value";
                         }
                     }
                 } while (animalPersonalityDescription == "");
@@ -230,7 +230,7 @@ do
 
                         if (animalNickname == "")
                         {
-                            animalNickname = "Nick-Name";
+                            animalNickname = "Unset value";
                         }
                     }
                 } while (animalNickname == "");
@@ -257,7 +257,6 @@ do
                     } while (anotherPet != "y" && anotherPet != "n");
 
                 }
-                // anotherPet = Console.ReadLine();
             }
 
             if (petCount >= maxPets)
@@ -268,14 +267,81 @@ do
             }
             break;
         case "3":
-            //> 3. Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("This app feature is comming soon. Please check beack to see progress.");
+            int validPetAge;
+            bool validAge;
+            
+            for (int i = 0; i < ourAnimals.GetLength(0); ++i)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    animalPhysicalDescription = ourAnimals[i, 4].Split(": ")[1];
+
+                    do
+                    {
+                        
+                        validAge = int.TryParse(ourAnimals[i, 2].Split(": ")[1], out validPetAge);
+
+                        if (!validAge)
+                        {
+                            Console.WriteLine($"Please inter a valid age for pet with ID: {ourAnimals[i, 0]}");
+                            readResult = Console.ReadLine();
+
+                            if(readResult != null)
+                            {
+                                ourAnimals[i, 2] = $"Age: {readResult}";
+                            }
+                        }
+                        else
+                        {
+                            validAge = true;
+                        }
+
+                    } while (!validAge);
+
+                    while(animalPhysicalDescription == "" || animalPhysicalDescription == "Unset value")
+                    {
+                        Console.WriteLine($"Please enter a valid physical description for pet with ID: {ourAnimals[i, 0]}");
+                        animalPhysicalDescription = Console.ReadLine();
+                    }
+
+                    ourAnimals[i, 4] = $"Physical description: {animalPhysicalDescription}"; 
+                }
+            }
+
+            Console.WriteLine("Age and physical description fields are complete for all of our friends.");
+
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
         case "4":
-            //> 4. Ensure animal nicknames and personality descriptions are complete
-            Console.WriteLine("This app feature is comming soon. Please check beack to see progress.");
+            
+            for(int i = 0; i < ourAnimals.GetLength(0); ++i)
+            {
+                if(ourAnimals[i, 0] != "ID #: ")
+                {
+                    animalNickname = ourAnimals[i, 3].Split(": ")[1];
+                    animalPersonalityDescription = ourAnimals[i, 5].Split(": ")[1];
+
+                    while(animalNickname == "Unset value" || animalNickname == "")
+                    {
+                        Console.WriteLine($"Please enter a valid nickname for pet with ID: {ourAnimals[i, 0]}");
+                        animalNickname = Console.ReadLine();
+                    }
+
+                    ourAnimals[i, 3] = $"Nickname: {animalNickname}";
+
+                    while(animalPersonalityDescription == "Unset value" || animalPersonalityDescription == "")
+                    {
+                        Console.WriteLine($"Please enter a valid personal description for pet with ID: {ourAnimals[i, 0]}");
+                        animalPersonalityDescription = Console.ReadLine();
+                    }
+
+                    ourAnimals[i, 5] = $"Personality description: {animalPersonalityDescription}";
+                }
+            }
+
+            Console.WriteLine("Age and physical description fields are complete for all of our friends.");
+
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
