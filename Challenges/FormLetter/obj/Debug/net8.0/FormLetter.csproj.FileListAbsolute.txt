@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\bin\Debug\net8.0\FormLetter.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\bin\Debug\net8.0\FormLetter.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\bin\Debug\net8.0\FormLetter.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\bin\Debug\net8.0\FormLetter.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\bin\Debug\net8.0\FormLetter.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\refint\FormLetter.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\FormLetter.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\FormLetter\obj\Debug\net8.0\ref\FormLetter.dll

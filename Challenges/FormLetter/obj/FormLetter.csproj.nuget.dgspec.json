@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\GitRepo\\C-ProjectsAndExercises\\Projects\\ContosoPetsApp\\ContosoPetsApp.csproj": {}
+    "Z:\\GitRepo\\C-ProjectsAndExercises\\Challenges\\FormLetter\\FormLetter.csproj": {}
   },
   "projects": {
-    "Z:\\GitRepo\\C-ProjectsAndExercises\\Projects\\ContosoPetsApp\\ContosoPetsApp.csproj": {
+    "Z:\\GitRepo\\C-ProjectsAndExercises\\Challenges\\FormLetter\\FormLetter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\GitRepo\\C-ProjectsAndExercises\\Projects\\ContosoPetsApp\\ContosoPetsApp.csproj",
-        "projectName": "ContosoPetsApp",
-        "projectPath": "Z:\\GitRepo\\C-ProjectsAndExercises\\Projects\\ContosoPetsApp\\ContosoPetsApp.csproj",
+        "projectUniqueName": "Z:\\GitRepo\\C-ProjectsAndExercises\\Challenges\\FormLetter\\FormLetter.csproj",
+        "projectName": "FormLetter",
+        "projectPath": "Z:\\GitRepo\\C-ProjectsAndExercises\\Challenges\\FormLetter\\FormLetter.csproj",
         "packagesPath": "C:\\Users\\Ziad-KH99\\.nuget\\packages\\",
-        "outputPath": "Z:\\GitRepo\\C-ProjectsAndExercises\\Projects\\ContosoPetsApp\\obj\\",
+        "outputPath": "Z:\\GitRepo\\C-ProjectsAndExercises\\Challenges\\FormLetter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
