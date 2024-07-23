@@ -1,0 +1,15 @@
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\bin\Debug\net8.0\DisplayValidEmailAddresses.exe
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\bin\Debug\net8.0\DisplayValidEmailAddresses.deps.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\bin\Debug\net8.0\DisplayValidEmailAddresses.runtimeconfig.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\bin\Debug\net8.0\DisplayValidEmailAddresses.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\bin\Debug\net8.0\DisplayValidEmailAddresses.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.AssemblyInfoInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.AssemblyInfo.cs
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.csproj.CoreCompileInputs.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.sourcelink.json
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\refint\DisplayValidEmailAddresses.dll
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.pdb
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\DisplayValidEmailAddresses.genruntimeconfig.cache
+Z:\GitRepo\C-ProjectsAndExercises\Challenges\DisplayValidEmailAddresses\obj\Debug\net8.0\ref\DisplayValidEmailAddresses.dll
