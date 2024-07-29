@@ -1,0 +1,15 @@
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\bin\Debug\net8.0\ContosoPettingZoo.exe
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\bin\Debug\net8.0\ContosoPettingZoo.deps.json
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\bin\Debug\net8.0\ContosoPettingZoo.runtimeconfig.json
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\bin\Debug\net8.0\ContosoPettingZoo.dll
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\bin\Debug\net8.0\ContosoPettingZoo.pdb
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.AssemblyInfoInputs.cache
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.AssemblyInfo.cs
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.csproj.CoreCompileInputs.cache
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.sourcelink.json
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.dll
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\refint\ContosoPettingZoo.dll
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.pdb
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ContosoPettingZoo.genruntimeconfig.cache
+Z:\Learn\Learn-Csharp\Projects\ContosoPettingZoo\obj\Debug\net8.0\ref\ContosoPettingZoo.dll
