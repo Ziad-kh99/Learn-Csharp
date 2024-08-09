@@ -1,0 +1,15 @@
+Z:\Learn\Learn-Csharp\Projects\MiniGame\bin\Debug\net8.0\MiniGame.exe
+Z:\Learn\Learn-Csharp\Projects\MiniGame\bin\Debug\net8.0\MiniGame.deps.json
+Z:\Learn\Learn-Csharp\Projects\MiniGame\bin\Debug\net8.0\MiniGame.runtimeconfig.json
+Z:\Learn\Learn-Csharp\Projects\MiniGame\bin\Debug\net8.0\MiniGame.dll
+Z:\Learn\Learn-Csharp\Projects\MiniGame\bin\Debug\net8.0\MiniGame.pdb
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.AssemblyInfoInputs.cache
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.AssemblyInfo.cs
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.csproj.CoreCompileInputs.cache
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.sourcelink.json
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.dll
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\refint\MiniGame.dll
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.pdb
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\MiniGame.genruntimeconfig.cache
+Z:\Learn\Learn-Csharp\Projects\MiniGame\obj\Debug\net8.0\ref\MiniGame.dll
