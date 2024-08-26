@@ -1,0 +1,15 @@
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/bin/Debug/net8.0/RetailSupportApp
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/bin/Debug/net8.0/RetailSupportApp.deps.json
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/bin/Debug/net8.0/RetailSupportApp.runtimeconfig.json
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/bin/Debug/net8.0/RetailSupportApp.dll
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/bin/Debug/net8.0/RetailSupportApp.pdb
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.AssemblyInfoInputs.cache
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.AssemblyInfo.cs
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.csproj.CoreCompileInputs.cache
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.sourcelink.json
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.dll
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/refint/RetailSupportApp.dll
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.pdb
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/RetailSupportApp.genruntimeconfig.cache
+/home/ziad/Learn/Dotnet/Learn-Csharp/Challenges/RetailSupportApp/obj/Debug/net8.0/ref/RetailSupportApp.dll
